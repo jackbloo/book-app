@@ -36,6 +36,30 @@ npm install
 npm run dev
 ```
 
+## Run Tests
+
+### Frontend Tests
+
+```bash
+cd frontend
+npm install
+npm test
+```
+
+### Backend Tests
+
+```bash
+cd backend
+npm install
+npm test
+```
+
+### Run All Tests
+
+```bash
+cd frontend && npm test & cd ../backend && npm test
+```
+
 ## Screenshots
 
 ### Mobile
