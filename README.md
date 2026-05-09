@@ -36,3 +36,13 @@ npm install
 npm run dev
 ```
 
+## Screenshots
+
+### Mobile
+<img src="./assets/mobile-1.png" alt="Mobile View 1" width="300">
+<img src="./assets/mobile-2.png" alt="Mobile View 2" width="300">
+
+### Desktop
+<img src="./assets/desktop-1.png" alt="Desktop View 1" width="500">
+<img src="./assets/desktop-2.png" alt="Desktop View 2" width="500">
+
