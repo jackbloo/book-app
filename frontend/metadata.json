@@ -1,0 +1,6 @@
+{
+  "name": "Book App",
+  "description": "Discover books via Google Books API and manage your personal wishlist with real-time persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
